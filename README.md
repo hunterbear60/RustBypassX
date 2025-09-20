@@ -78,3 +78,4 @@ Survive and dominate in **Rust** with our private free tool
 | **How to update?**    | Auto-updates with every new Rust patch.                 |
 | **Unlock skins?**     | Yes, all weapons, outfits & building skins unlocked instantly. |
 | **Support?**          | Included via private loader community.                  |
+ 
